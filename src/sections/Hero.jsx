@@ -44,7 +44,7 @@ const Hero = () => {
                     />
                     </HeroCamera>
                         <group>
-                            <Target position={sizes.targetPosition}/>
+                            {/*<Target position={sizes.targetPosition}/>*/}
                             <ReactLogo position={sizes.reactLogoPosition}/>
                             <PythonLogo position={sizes.cubePosition}/>
                             <Einstein position={sizes.ringPosition}/>
